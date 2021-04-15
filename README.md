@@ -16,3 +16,6 @@ Added some modifications
 altered modifications
 
 very lots of changes
+
+### Copyright
+2014 Git.Training.
