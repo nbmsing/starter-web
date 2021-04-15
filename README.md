@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 add some extras
+
+Added some modifications
