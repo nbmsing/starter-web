@@ -12,3 +12,7 @@ Sample website with plenty of files for demos
 add some extras
 
 Added some modifications
+
+altered modifications
+
+very lots of changes
