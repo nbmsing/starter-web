@@ -9,13 +9,9 @@ Sample website with plenty of files for demos
 ## Purpose
 
 ## How to Contribute
-add some extras
 
-Added some modifications
+Please fork this repository and then issue Pull Requests for review.
 
-altered modifications
-
-very lots of changes
 
 ### Copyright
 2014 Git.Training.
